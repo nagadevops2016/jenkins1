@@ -1,0 +1,12 @@
+Started on May 4, 2021 1:13:04 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision bf46ffa2adfd78d60d84d1db1300814533aea6ed (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.30.1.windows.1'
+ > git.exe ls-remote -h -- https://github.com/nagadevops2016/jenkins-maven.git # timeout=10
+Found 1 remote heads on https://github.com/nagadevops2016/jenkins-maven.git
+[poll] Latest remote head revision on refs/heads/master is: bf46ffa2adfd78d60d84d1db1300814533aea6ed - already built by 25
+Done. Took 7.3 sec
+No changes
